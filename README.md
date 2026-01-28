@@ -17,6 +17,6 @@ This app is deployable on Streamlit Cloud.
 - packages.txt → OCR system dependencies
 
 - ## 🚀 Live Demo
-👉 [https://your-app-name.streamlit.app](https://resume-category-predictor.streamlit.app/)
+👉 [https://resume-category-predictor.streamlit.app](https://resume-category-predictor.streamlit.app/)
 
 
