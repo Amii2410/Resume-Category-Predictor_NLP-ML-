@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+joblib
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+streamlit-lottie
